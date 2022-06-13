@@ -1,0 +1,24 @@
+.Titulo-principal {
+
+    color: #4000ff;
+    background-color: #0d0d0d;
+    text-align: center;
+    font-size: 120px;
+
+
+
+
+}
+
+h2{
+
+    color: #0aff8d;
+    background-color: red;
+    padding: 40px;
+    
+    
+    margin-bottom: 12px;
+    margin-top: 12px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
